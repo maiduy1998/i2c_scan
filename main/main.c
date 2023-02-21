@@ -28,3 +28,6 @@ void app_main(void)
     
     xTaskCreate(scan_device_i2C, "I2C master sends data", 2048, NULL, 1, NULL);
 }
+
+void blink_led_status{
+}
