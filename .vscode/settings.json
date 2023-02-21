@@ -1,0 +1,9 @@
+{
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3",
+    "files.associations": {
+        "pcf8574.h": "c",
+        "stdio.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
